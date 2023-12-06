@@ -1,5 +1,5 @@
 Hola mundo, aqui desde Manizales, Colombia
 
-Este es un curso de github
+Este es un curso de github y tambien estoy asplicando water css
 
 este es un texto creado por Emanuel Rico Rojas
