@@ -51,3 +51,8 @@ nav ul li{
 .info-item{
     margin: 1rem 0;
 }
+
+.info-item .title{
+    font-size: .8rem;
+    font-weight: bold;
+}
