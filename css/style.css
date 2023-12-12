@@ -21,6 +21,7 @@ nav ul li{
 }
 .container{
     display: flex;
+    margin-top: 1rem;
 }
 
 .profile-img{
@@ -50,4 +51,12 @@ nav ul li{
 
 .info-item{
     margin: 1rem 0;
+}
+
+.about-me{
+    background-color: #192027;
+    padding: 1rem;
+    padding-left: 2rem;
+    margin-left: -2rem;
+    margin-top: 1rem;
 }
