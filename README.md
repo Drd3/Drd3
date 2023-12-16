@@ -1,4 +1,4 @@
 # myproyect
 
--Aprender github
--Proveer información
+- Aprender github
+- Proveer información
